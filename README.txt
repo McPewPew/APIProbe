@@ -1,4 +1,8 @@
-Azeroth API Probe 0.2.2
+This isn't the sort of thing I'd want to spend time making, so it's fully AI.
+You probably don't need the addon, the HTML file is a processed version of its output.
+
+=======================
+Azeroth API Probe 0.2.2 
 =======================
 
 Purpose
