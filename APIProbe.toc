@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Azeroth API Probe
+## Notes: Safe Lua, WoW API, UI object, and event compatibility diagnostics
+## Author: OpenAI / Codex
+## Version: 0.2.2
+## SavedVariables: APIProbeDB
+
+APIProbe.lua
